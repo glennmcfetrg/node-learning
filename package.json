@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/glennmcfetrg/node-learning#readme",
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
     "nodemon": "^3.1.0"
   }
 }
